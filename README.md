@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Dharmendra Singh Shekhawat !👋</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
@@ -27,13 +28,13 @@
 - Dr. A.P.J. Abdul Kalam University, Indore (2021-2023)
   - Degree: MCA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendrashekhawat1403@gmail.com&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrashekhawat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DharmendraShekhawat&label=Profile%20views&color=0e75b6&style=flat" alt="DharmendraShekhawat" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
 
 - 💬 Ask me about **DSA, Spring Boot, Java, SQL,API, REST API**
 
-- 📫 How to reach me **officialparishjain@gmail.com**
+- 📫 How to reach me **dharmendrashekhawat1403@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1T80Kcx2FMZcOCvUZf4tuoVoBSD9r0Gb3r9p6eDOlZqg/edit
 
@@ -41,12 +42,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jainparish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jainparish_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parish-jain-a9b819263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parish-jain-a9b819263" height="30" width="40" /></a>
-<a href="https://fb.com/officialparishjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialparishjain" height="30" width="40" /></a>
-<a href="https://instagram.com/jain.parish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jain.parish" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/officialparishj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="officialparishj1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parishjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parishjain" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/dharmendrashekhawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmendrashekhawat" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/dharmendra__shekhawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmendra_shekhawat" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dharmendrashekh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmendrashekh1" height="30" width="40" /></a>
+<a href="https://leetcode.com/DharmendraShekhawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DharmendraShekhawat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,3 +56,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendrashekhawat&show_icons=true&locale=en&layout=compact" alt="dharmendrashekhawat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrashekhawat&" alt="dharmendrashekhawat" /></p>
+
+
+
+
